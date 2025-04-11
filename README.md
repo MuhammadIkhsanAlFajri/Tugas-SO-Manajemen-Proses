@@ -56,7 +56,7 @@ $ ps
 Ambil PID terbesar dan telusuri prosesnya ke atas menggunakan `ps -o ppid=` sampai PPID = 1. Ini menunjukkan urutan hierarki proses dari shell ke induk sistem.
 
 ### Screenshot:
-![Screenshot Soal 1](soal1/Screenshot.png)
+![Screenshot Soal 1](soal1benar/Screenshot.png)
 
 ---
 
@@ -108,7 +108,7 @@ done
 ```
 
 ### Screenshot:
-![Screenshot Soal 3](soal3/screenshot.png)
+![Screenshot Soal 3](soal3/Screenshot.png)
 
 ---
 
