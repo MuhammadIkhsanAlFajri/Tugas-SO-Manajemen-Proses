@@ -86,7 +86,7 @@ kill -15 [PID]
 ```
 
 ### Screenshot:
-![Screenshot Soal 2](soal2/screenshot.png)
+![Screenshot Soal 2](soal2/Screenshot.png)
 
 ---
 
