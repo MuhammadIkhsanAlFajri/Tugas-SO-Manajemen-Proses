@@ -112,20 +112,4 @@ done
 
 ---
 
-## Struktur Direktori
-```
-praktikum-6-linux-shell/
-├── README.md
-├── soal1/
-│   ├── jawaban.txt
-│   └── screenshot.png
-├── soal2/
-│   ├── prog.sh
-│   └── screenshot.png
-├── soal3/
-│   ├── myjob.sh
-│   └── screenshot.png
-```
-
-Silakan gunakan struktur ini untuk membuat repositori GitHub. File skrip dan screenshot bisa dimasukkan ke dalam folder masing-masing sesuai soal.
 
