@@ -108,7 +108,7 @@ Ambil PID terbesar dan telusuri prosesnya ke atas menggunakan `ps -o ppid=` samp
 ---
 
 ### Screenshot :
-![Screenshot Soal 1](soal1benar/Screenshot.png)
+![Screenshot Soal 1](aman/Screenshot.png)
 
 ---
 
